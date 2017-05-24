@@ -1,0 +1,11 @@
+{
+"time_format" : "%Y-%m-%d-%H-%M-%S",
+"time_format_day" : "%Y-%m-%d",
+"data_folder" : "/home/pi/Seminar/imgs/",
+"image_folder" : "/home/pi/Seminar/capturedimgs/",
+"detected_image_folder" : "/home/pi/Seminar/detected_images/",
+"sample_folder" : "/home/pi/Seminar/zaobradu/",
+"reports_folder" : "/home/pi/Seminar/reports/",
+"save_data": true,
+"display": true
+}
